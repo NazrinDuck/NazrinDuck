@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+---
+
+
+
 <!--
 **NazrinDuck/NazrinDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![NazrinDuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazrinDuck)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazrinDuck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=NazrinDuck">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazrinDuck&layout=compact">
+</p>
+
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NazrinDuck&theme=carbonfox&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NazrinDuck&theme=carbonfox&locale=zh_Hans&date_format=%5BY.%5Dn.j">
+</p>
